@@ -1,2 +1,1 @@
-# Tableau
-Analysis and Visualization with Tableau
+Analyze the data and create dashboards to derive insights
